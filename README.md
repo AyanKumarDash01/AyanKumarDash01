@@ -1,10 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00C9FF&height=230&section=header&text=AYAN%20KUMAR%20DASH%20⚡&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/152307523?v=4" width="140" height="140" style="border-radius: 50%; border: 3px solid #00C9FF;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00C9FF&height=230&section=header&text=AYAN%20KUMAR%20DASH%20&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
@@ -64,7 +60,6 @@ I engineer reliable automation systems that ensure each feature performs flawles
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyanKumarDash01&show_icons=true&theme=react&hide_border=true&bg_color=0A192F&title_color=00C9FF&icon_color=00C9FF&text_color=E6E6E6" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanKumarDash01&theme=react&hide_border=true&background=0A192F&ring=00C9FF&fire=00C9FF&currStreakLabel=E6E6E6" height="165" />
 </p>
 
 <p align="center">
@@ -104,3 +99,4 @@ I engineer reliable automation systems that ensure each feature performs flawles
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0A192F&height=120&section=footer" />
 </p>
+
