@@ -1,4 +1,4 @@
-<!-- Banner / Header -->
+<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%20Ayan%20Kumar%20Dash%20%7C%20SDET&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&descAlign=50" />
 </p>
@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me  
 
-**Quality-focused SDET** with a solid understanding of **SDLC** and **STLC** processes.  
-Skilled in building **automation frameworks** and executing **manual & API testing** using modern tools.  
-Driven by curiosity, continuous learning, and a passion for improving product reliability through effective test strategies.  
+**Quality-focused SDET** with a strong understanding of **SDLC** and **STLC**.  
+I design, build, and maintain scalable **automation frameworks** for web, API, and backend systems.  
+My goal is to ensure **product reliability**, faster delivery, and seamless CI/CD integration.  
 
 📍 **Jaleswar, Odisha, India**  
 📧 **ayan06051997@gmail.com**  
@@ -18,45 +18,44 @@ Driven by curiosity, continuous learning, and a passion for improving product re
 
 ---
 
+## 🧰 Tech Arsenal  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20Assured-009485?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FCC624?style=for-the-badge&logo=testng&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Featured Projects  
+
+| 🧩 **Project** | 🧾 **Description** | ⚙️ **Tech Stack** |
+|:---------------|:------------------|:-----------------|
+| [**Phoenix HRM Automation**](https://github.com/AyanKumarDash01/PhoenixTest.git) | **Action:** Designed a robust Page Object Model–based automation framework for an HRM web app covering UI + API + BDD flows.<br>**Outcome:** Reduced manual regression testing time by **70%**, improved test reliability with modular reusable components, and enabled smooth **CI/CD integration with Jenkins**. | Java · Selenium · REST-Assured · TestNG · Jenkins |
+coverage**, implemented real-time report generation with Mochawesome, and automated daily builds via **GitHub Actions**. | JavaScript · Cypress · Cucumber · Mochawesome · GitHub Actions |
+| [**QuantumLeap E-Commerce Framework**](https://github.com/AyanKumarDash01/QuantumLeap.git) | **Action:** Architected a reusable automation solution for e-commerce platforms, emphasizing modularity and cross-browser scalability.<br>**Outcome:** Cut test execution time by **40%**, enabled multi-environment test triggers, and simplified onboarding for QA teams. | Java · Selenium · Cucumber · Jenkins |
+
+---
+
 ## 🎓 Education  
 
 - 🎯 **SDET Program** — Masai School *(2025–Present)*  
 - 🎓 **B.Tech (CSE)** — Brainware University *(2018–2021)*  
 - 💻 **Diploma (CSE)** — Singhania University *(2015–2018)*  
-- 🏫 **Matriculation** — R.K. High School, Paschimbard (Balasore) *(2012)*  
-
----
-
-## 🧠 Technical Skills  
-
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Automation Testing** | Selenium WebDriver · Cypress · REST Assured |
-| **Test Design & Strategy** | Test Plan · Test Case Design · Manual & Exploratory Testing |
-| **Programming & Frameworks** | JavaScript · TestNG · JUnit · Maven · Cucumber (BDD) |
-| **Database & API** | SQL · API Validation · Backend Testing |
-| **Performance Testing** | Load · Stress · Scalability Testing |
-| **Defect Management** | Jira · Bug Tracking · Reporting |
-| **Soft Skills** | Continuous Learning · Accountability · Time Management · Adaptability · Problem Solving |
-
----
-
-## 🚀 Projects  
-
-### 🔹 **Phoenix – Enterprise Test Automation Framework (OrangeHRM)**  
-**Tech Stack:** Selenium, TestNG, Cucumber BDD, REST Assured, Maven, ExtentReports  
-- Built a CI-ready automation framework for **web and API testing** of OrangeHRM.  
-- Designed **Page Object Model (POM)** architecture and implemented **BDD scenarios** for HR workflows.  
-- Developed **reusable REST Assured API suites** with detailed ExtentReports.  
-- Improved test coverage and framework reliability through modular design.  
-
----
-
-### 🔹 **QuantumLeap – E-Commerce Test Automation Framework**  
-**Tech Stack:** Selenium, TestNG, Cucumber, REST Assured, Maven  
-- Developed a unified automation framework for **web and API testing**.  
-- Implemented **data-driven tests** and reusable page methods for end-to-end purchase flows.  
-- Integrated **BDD with REST Assured CRUD APIs** for scalable test automation.  
+- 🏫 **Matriculation** — R.K. High School, Paschimbard *(2012)*  
 
 ---
 
@@ -69,7 +68,7 @@ Driven by curiosity, continuous learning, and a passion for improving product re
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyanKumarDash01&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
