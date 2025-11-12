@@ -58,12 +58,16 @@ I enjoy digging deep into systems, creatively breaking them, and ensuring that e
 
 ## 📊 GitHub Insights  
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayandash&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayandash&theme=radical" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyanKumarDash01&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanKumarDash01&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -99,4 +103,5 @@ I enjoy digging deep into systems, creatively breaking them, and ensuring that e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
+
 
