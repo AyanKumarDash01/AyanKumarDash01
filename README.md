@@ -45,7 +45,6 @@ My goal is to ensure **product reliability**, faster delivery, and seamless CI/C
 | 🧩 **Project** | 🧾 **Description** | ⚙️ **Tech Stack** |
 |:---------------|:------------------|:-----------------|
 | [**Phoenix HRM Automation**](https://github.com/AyanKumarDash01/PhoenixTest.git) | **Action:** Designed a robust Page Object Model–based automation framework for an HRM web app covering UI + API + BDD flows.<br>**Outcome:** Reduced manual regression testing time by **70%**, improved test reliability with modular reusable components, and enabled smooth **CI/CD integration with Jenkins**. | Java · Selenium · REST-Assured · TestNG · Jenkins |
-coverage**, implemented real-time report generation with Mochawesome, and automated daily builds via **GitHub Actions**. | JavaScript · Cypress · Cucumber · Mochawesome · GitHub Actions |
 | [**QuantumLeap E-Commerce Framework**](https://github.com/AyanKumarDash01/QuantumLeap.git) | **Action:** Architected a reusable automation solution for e-commerce platforms, emphasizing modularity and cross-browser scalability.<br>**Outcome:** Cut test execution time by **40%**, enabled multi-environment test triggers, and simplified onboarding for QA teams. | Java · Selenium · Cucumber · Jenkins |
 
 ---
@@ -90,3 +89,4 @@ coverage**, implemented real-time report generation with Mochawesome, and automa
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
