@@ -1,39 +1,44 @@
-<!-- Header Banner -->
+<!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=230&section=header&text=AYAN%20DASH%20|%20SDET&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00C9FF&height=230&section=header&text=AYAN%20KUMAR%20DASH%20⚡&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/152307523?v=4" width="140" height="140" style="border-radius: 50%; border: 3px solid #00C9FF;" />
 </p>
 
 ---
 
 ## 💫 About Me  
 
-💼 Passionate **Software Development Engineer in Test (SDET)** with a knack for merging **curiosity with precision**.  
-I thrive on uncovering hidden defects, strengthening product reliability, and building test systems that inspire confidence.  
+💼 A passionate **Software Development Engineer in Test (SDET)** driven by precision, curiosity, and craftsmanship.  
+I engineer reliable automation systems that ensure each feature performs flawlessly — because great software deserves great confidence.  
 
-💡 To me, **automation is not just testing** — it’s engineering trust, one test at a time.  
+💡 I believe **testing isn’t about finding bugs** — it’s about designing systems so strong that bugs fear to exist.  
 
-🧠 I specialize in designing scalable automation frameworks, exploring cutting-edge tools, and ensuring every release is smooth, stable, and user-centric.  
+🧠 My focus lies in **framework design**, **scalable test automation**, and **seamless CI/CD integration** that aligns quality with speed.
 
-> “I automate with purpose — because every smart test brings software one step closer to perfection.”
+> “I automate with purpose — every test should make the product stronger and the team smarter.”
 
 ---
 
-## 🧩 Featured Projects  
+## 🚀 Featured Projects  
 
 | 💼 Project | 📖 Description | 🧰 Tech Stack |
 |:-----------|:---------------|:--------------|
-| [**Phoenix HRM Automation**](https://github.com/AyanKumarDash01/PhoenixTest.git) | **Action:** Designed a robust Page Object Model–based automation framework for an HRM web app covering UI + API + BDD flows. <br> **Outcome:** Reduced manual regression testing time by **70%**, improved test reliability, and enabled smooth CI/CD integration with Jenkins. | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20Assured-00599C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> |
-| [**QuantumLeap E-Commerce Framework**](https://github.com/AyanKumarDash01/QuantumLeap.git) | **Action:** Architected a reusable automation solution for e-commerce platforms, emphasizing modularity and cross-browser scalability. <br> **Outcome:** Cut test execution time by **40%** and simplified QA onboarding with modular components. | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> |
+| [**Phoenix HRM Automation**](https://github.com/AyanKumarDash01/PhoenixTest.git) | **Action:** Designed a Page Object Model (POM)–based automation framework for HRM covering UI, API & BDD flows. <br> **Outcome:** Reduced manual regression time by **70%** and integrated automation into CI/CD using Jenkins. | <img src="https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/TestNG-FEAE00?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> |
+| [**QuantumLeap E-Commerce Framework**](https://github.com/AyanKumarDash01/QuantumLeap.git) | **Action:** Architected a reusable cross-browser automation framework for e-commerce apps. <br> **Outcome:** Cut execution time by **40%**, improved test modularity, and streamlined onboarding for QA teams. | <img src="https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> |
+| [**Walmart E2E Automation**](https://github.com/AyanKumarDash01/WalmartAutomation.git) | **Action:** Built Cypress-based E2E automation covering product search, cart, and checkout workflows. <br> **Outcome:** Boosted regression coverage by **85%** with Allure reporting and parallel CI triggers. | <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Cypress-00C7B7?style=for-the-badge&logo=cypress&logoColor=white"/> <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/> |
 
 ---
 
-## ⚙️ Tech Arsenal  
+## 🧰 Tech Arsenal  
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -42,8 +47,7 @@ I thrive on uncovering hidden defects, strengthening product reliability, and bu
   <img src="https://img.shields.io/badge/Cypress-00C7B7?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20Assured-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-FFB400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FEAE00?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -51,7 +55,7 @@ I thrive on uncovering hidden defects, strengthening product reliability, and bu
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -59,21 +63,21 @@ I thrive on uncovering hidden defects, strengthening product reliability, and bu
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyanKumarDash01&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanKumarDash01&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyanKumarDash01&show_icons=true&theme=react&hide_border=true&bg_color=0A192F&title_color=00C9FF&icon_color=00C9FF&text_color=E6E6E6" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanKumarDash01&theme=react&hide_border=true&background=0A192F&ring=00C9FF&fire=00C9FF&currStreakLabel=E6E6E6" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanKumarDash01&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanKumarDash01&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Code%20Commit%20Activity" width="95%"/>
 </p>
 
 ---
 
 ## 💡 My Core Skills  
 - **Languages & Tooling:** Java, Selenium, REST-Assured, Cypress, TestNG/JUnit, Maven/Gradle, Git, Docker  
-- **Testing Types:** Functional UI testing, API testing, BDD, cross-browser testing, CI/CD automation  
-- **Framework Design:** Page Object Model (POM), modular components, data-driven & keyword-driven testing, reporting dashboards  
-- **Soft Skills:** Problem-solving, agile teamwork, analytical thinking, fast learning  
+- **Testing Types:** Functional, API, BDD, Regression, Cross-Browser, and CI/CD Automation  
+- **Framework Design:** POM, modular design, data-driven & keyword-driven, advanced reporting  
+- **Soft Skills:** Problem-solving · Agile Collaboration · Continuous Learning · Ownership  
 
 ---
 
@@ -84,10 +88,10 @@ I thrive on uncovering hidden defects, strengthening product reliability, and bu
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ayan06051997@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/AyanKumarDash01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -98,5 +102,5 @@ I thrive on uncovering hidden defects, strengthening product reliability, and bu
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0A192F&height=120&section=footer" />
 </p>
