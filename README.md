@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=AYAN%20KUMAR%20DASH%20|%20SDET&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=AYAN%20KUMAR%20DASH%20·%20SDET&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&animation=fadeIn" />
 </p>
 
 ---
@@ -8,22 +8,24 @@
 ## 💫 About Me  
 
 💼 A passionate **Software Development Engineer in Test (SDET)** driven by precision, curiosity, and craftsmanship.  
-I engineer reliable automation systems that ensure each feature performs flawlessly - because great software deserves great confidence.  
+I engineer reliable automation systems that ensure each feature performs flawlessly — because great software deserves great confidence.  
 
-💡 I believe **testing isn’t about finding bugs** - it’s about designing systems so strong that bugs fear to exist.  
+💡 I believe **testing isn’t about finding bugs** — it’s about designing systems so strong that bugs fear to exist.  
 
-🧠 My focus lies in **framework design**, **scalable test automation**, and **seamless CI/CD integration** that aligns quality with speed.
+🧠 My focus lies in **framework design**, **scalable test automation**, and **seamless CI/CD integration** that aligns quality with speed.  
 
-> “I automate with purpose - every test should make the product stronger and the team smarter.”
+💬 I enjoy working closely with developers and DevOps teams to make quality a shared responsibility across the pipeline.  
+
+> “I automate with intent — every test should strengthen the product and empower the team.”
 
 ---
 
 ## 🚀 Featured Projects  
 
 | 💼 Project | 📖 Description |
-|:-----------|:---------------|:--------------|
-| [**Phoenix HRM Automation**](https://github.com/AyanKumarDash01/PhoenixTest.git) | **Action:** Designed a Page Object Model (POM)–based automation framework for HRM covering UI, API & BDD flows. <br> **Outcome:** Reduced manual regression time by **70%** and integrated automation into CI/CD using Jenkins. |
-| [**QuantumLeap E-Commerce Framework**](https://github.com/AyanKumarDash01/QuantumLeap.git) | **Action:** Architected a reusable cross-browser automation framework for e-commerce apps. <br> **Outcome:** Cut execution time by **40%**, improved test modularity, and streamlined onboarding for QA teams. |
+|:-----------|:---------------|
+| [**Phoenix HRM Automation**](https://github.com/AyanKumarDash01/PhoenixTest.git) | **Action:** Designed a POM-based automation framework for HRM (UI + API + BDD). <br> **Outcome:** Reduced manual regression time by **70%** and integrated with Jenkins pipelines. |
+| [**QuantumLeap E-Commerce Framework**](https://github.com/AyanKumarDash01/QuantumLeap.git) | **Action:** Architected a reusable cross-browser automation framework for e-commerce apps. <br> **Outcome:** Cut execution time by **40%**, improved test modularity, and streamlined QA onboarding. |
 | [**Walmart E2E Automation**](https://github.com/AyanKumarDash01/WalmartAutomation.git) | **Action:** Built Cypress-based E2E automation covering product search, cart, and checkout workflows. <br> **Outcome:** Boosted regression coverage by **85%** with Allure reporting and parallel CI triggers. |
 
 ---
@@ -69,10 +71,11 @@ I engineer reliable automation systems that ensure each feature performs flawles
 ---
 
 ## 💡 My Core Skills  
-- **Languages & Tooling:** Java, Selenium, REST-Assured, Cypress, TestNG/JUnit, Maven/Gradle, Git, Docker  
-- **Testing Types:** Functional, API, BDD, Regression, Cross-Browser, and CI/CD Automation  
-- **Framework Design:** POM, modular design, data-driven & keyword-driven, advanced reporting  
-- **Soft Skills:** Problem-solving · Agile Collaboration · Continuous Learning · Ownership  
+
+- **Automation Tools:** Selenium · Cypress · REST-Assured  
+- **Frameworks:** POM · Data-Driven · BDD (Cucumber) · Hybrid  
+- **Testing Types:** Functional · Regression · API · CI/CD · Cross-Browser  
+- **Soft Skills:** Analytical Thinking · Collaboration · Ownership · Continuous Learning  
 
 ---
 
@@ -92,17 +95,10 @@ I engineer reliable automation systems that ensure each feature performs flawles
 
 ---
 
-> “Quality is never an accident; it is always the result of intelligent effort.” - *John Ruskin*
+> 🧭 *“Quality is never an accident; it is always the result of intelligent effort.”* — **John Ruskin**
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
-
-
-
-
-
-
