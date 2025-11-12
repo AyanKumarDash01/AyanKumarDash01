@@ -1,95 +1,84 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%20Ayan%20Kumar%20Dash%20%7C%20SDET&fontSize=45&fontAlignY=40&desc=Quality-Focused%20Test%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ayush%20Patel%20%7C%20SDET&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=55&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<!-- Contact Information -->
+<h2 align="center">👋 Hey, I'm Ayan Kumar Dash</h2>
+<p align="center">
+📧 <a href="mailto:ayan06051997@gmail.com">ayan06051997@gmail.com</a> |
+📞 6291736097 |
+📍 Jaleswar, Odisha, India <br>
+🔗 <a href="https://linkedin.com/in/ayan-kumar-dash-1823811bb">LinkedIn</a> |
+<a href="https://github.com/AyanKumarDash01">GitHub</a>
 </p>
 
 ---
 
-### 🧑‍💻 **About Me**
+## 🧩 Summary
 
-👋 Hi, I'm **Ayan Kumar Dash**, a passionate and quality-driven **Software Development Engineer in Test (SDET)** from **Odisha, India**.  
-I specialize in building scalable, maintainable, and CI-ready **automation frameworks** that improve product reliability and streamline QA processes.  
-
-💡 My focus is on combining **Manual + Automation Testing** expertise to ensure end-to-end quality across web and API layers.
-
----
-
-### 🎓 **Education**
-
-- 🎯 **SDET Program**, Masai School — *2025–Present*  
-- 🎓 **B.Tech (CSE)**, Brainware University — *2018–2021*  
-- 🧩 **Diploma (CSE)**, Singhania University — *2015–2018*  
-- 🏫 **Matriculation**, R.K. High School, Paschimbard (Balasore) — *2012*  
+Quality-focused **SDET** with a strong understanding of **SDLC** and **STLC** processes.  
+Skilled in creating both **automated and manual test frameworks** using modern tools and technologies.  
+Committed to improving product reliability through efficient testing and continuous learning.
 
 ---
 
-### ⚙️ **Technical Skills**
+## 🎓 Education
 
-#### 🧠 *Core Testing Skills*
-- Test Automation (UI · API · Backend)
-- Test Strategy · Test Plan · Test Case Design  
-- Manual & Exploratory Testing  
-- Defect Management & Reporting  
-
-#### 💻 *Tools & Frameworks*
-- **Selenium WebDriver** | **Cypress** | **REST Assured**
-- **TestNG** | **JUnit** | **Cucumber (BDD)**  
-- **Maven** | **ExtentReports** | **Postman**
-
-#### 🧮 *Programming & Database*
-- **JavaScript**, **Java**
-- **SQL** (Database Validation)
-
-#### 📊 *Performance Testing*
-- Load, Stress & Scalability Testing
+- 🎓 **SDET Program**, Masai School — *2025–Present*  
+- 💻 **B.Tech (CSE)**, Brainware University — *2018–2021*  
+- 🧠 **Diploma (CSE)**, Singhania University — *2015–2018*  
+- 🏫 **Matriculation**, R.K. High School, Paschimbard (Balasore) — *2012*
 
 ---
 
-### 🧩 **Soft Skills**
+## 🧠 Technical Skills
+
+| Category | Skills |
+|-----------|---------|
+| **Automation & Testing** | Selenium WebDriver, Cypress, REST Assured, Manual & Exploratory Testing |
+| **Frameworks & Tools** | TestNG, JUnit, Maven, Cucumber BDD, ExtentReports |
+| **Testing Concepts** | Test Plan, Test Strategy, Test Case Design, Defect Management |
+| **Programming** | JavaScript, Java |
+| **Database** | SQL (Database Validation) |
+| **Performance Testing** | Load, Stress, Scalability Testing |
+
+---
+
+## 💡 Soft Skills
 
 Continuous Learning · Accountability · Time Management · Adaptability · Problem Solving
 
 ---
 
-### 🚀 **Projects**
+## 🚀 Projects
 
-#### 🔹 **Phoenix – Enterprise Test Automation Framework (OrangeHRM)**
+### 🧩 **Phoenix – Enterprise Test Automation Framework (OrangeHRM)**
 **Tech Stack:** Selenium, TestNG, Cucumber BDD, REST Assured, Maven, ExtentReports  
-- Built a CI-ready hybrid automation framework for **Web + API Testing**.  
-- Designed **POM architecture** and implemented **BDD scenarios** for HR workflows.  
-- Developed reusable REST Assured suites with detailed ExtentReports.  
-- Improved test coverage and reliability through modular design.
+- Built a CI-ready automation framework for web and API testing of **OrangeHRM**.  
+- Designed **Page Object Model (POM)** architecture and implemented **BDD** scenarios for HR workflows.  
+- Developed reusable REST Assured API suites with detailed **ExtentReports**.  
+- Improved test coverage and framework reliability through modular design.
 
 ---
 
-#### 🔹 **QuantumLeap – E-Commerce Test Automation Framework**
+### 🛒 **QuantumLeap – E-Commerce Test Automation Framework**
 **Tech Stack:** Selenium, TestNG, Cucumber, REST Assured, Maven  
-- Developed a unified automation framework for **end-to-end testing**.  
-- Implemented **POM** and **data-driven tests** for full purchase flow.  
-- Integrated **BDD** with reusable page methods and CRUD API validation.  
+- Developed a unified automation framework for **web and API testing**.  
+- Implemented **POM** and **data-driven tests** for end-to-end purchase flow.  
+- Integrated **BDD** with reusable page methods and REST Assured CRUD APIs.
 
 ---
 
-### 🏅 **Certificates**
+## 🏅 Certificates
 
-- 📘 **Masai Reading Marathon (Season 23)** – Masai School  
+- 🎖 **Masai Reading Marathon (Season 23)** – Masai School  
 - 📱 **Android with Kotlin** – WebTek Labs Pvt. Ltd.  
-- 🎤 **Shaping Young Minds Program** – AIMA  
-- 🧘 **Corporate Governance & Stress Relief** – Annex College  
+- 🧭 **Shaping Young Minds Program** – AIMA  
+- 💼 **Corporate Governance & Stress Relief** – Annex College  
 
 ---
 
-### 🌐 **Let's Connect**
-
 <p align="center">
-  <a href="mailto:ayan06051997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ayan-kumar-dash-1823811bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AyanKumarDash01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
