@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00C9FF&height=230&section=header&text=AYAN%20KUMAR%20DASH%20&fontSize=45&fontAlignY=40&desc=SDET . QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=AYAN%20DASH%20|%20SDET&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&animation=fadeIn" />
 </p>
 
 ---
@@ -99,5 +99,6 @@ I engineer reliable automation systems that ensure each feature performs flawles
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0A192F&height=120&section=footer" />
 </p>
+
 
 
