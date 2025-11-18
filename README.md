@@ -8,15 +8,15 @@
 ## 💫 About Me  
 
 💼 A passionate **Software Development Engineer in Test (SDET)** driven by precision, curiosity, and craftsmanship.  
-I engineer reliable automation systems that ensure each feature performs flawlessly — because great software deserves great confidence.  
+I engineer reliable automation systems that ensure each feature performs flawlessly - because great software deserves great confidence.  
 
-💡 I believe **testing isn’t about finding bugs** — it’s about designing systems so strong that bugs fear to exist.  
+💡 I believe **testing isn’t about finding bugs** - it’s about designing systems so strong that bugs fear to exist.  
 
 🧠 My focus lies in **framework design**, **scalable test automation**, and **seamless CI/CD integration** that aligns quality with speed.  
 
 💬 I enjoy working closely with developers and DevOps teams to make quality a shared responsibility across the pipeline.  
 
-> “I automate with intent — every test should strengthen the product and empower the team.”
+> “I automate with intent - every test should strengthen the product and empower the team.”
 
 ---
 
@@ -95,12 +95,13 @@ I engineer reliable automation systems that ensure each feature performs flawles
 
 ---
 
-> 🧭 *“Quality is never an accident; it is always the result of intelligent effort.”* — **John Ruskin**
+> 🧭 *“Quality is never an accident; it is always the result of intelligent effort.”* - **John Ruskin**
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
+
 
 
